@@ -112,7 +112,7 @@ Features include:
 
 Here's a simple illustration showing a respective Merkle tree for Block number 8;
 
-![Merkle Trees](/home/hp/Downloads/Merkle Trees.png)
+![Merkle Trees](https://github.com/CyndieKamau/merkleTrees_Rust/assets/63792575/304b322c-7b6f-4260-9468-6ca79f275cc0).
 
 Block 8;
 
